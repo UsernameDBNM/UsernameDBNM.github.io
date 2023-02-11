@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.form{
+    width: 90%;
+    height: 300px;
+    background: #e3ff00;
+    border: 3px solid #ccc;
+}
+.form input, .form button{
+    width: 99%;
+    height: 30px;
+}
+.form button{
+    background: #e3ff00;
+}
+.clock-form{
+    background: #ff000a;
+    border: 5px solid black;
+}
+.username{
+    background: #ffdc00;
+    border: 5px solid black;
+    text-align: center;
+}
+img{
+    width: 70%;
+}
+#aipaddr{
+    background: #dfffd5;
+    display: block;
+    
+}
